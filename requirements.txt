@@ -1,0 +1,3 @@
+extract_msg>=0.48.0
+beautifulsoup4>=4.12.0
+chardet>=5.0.0
