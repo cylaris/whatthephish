@@ -8,6 +8,19 @@ A significantly enhanced email phishing analysis tool with advanced character an
 ![Language](https://img.shields.io/badge/Language-Python-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+## Installation
+- Create a folder for this project, then run:
+```bash
+git clone https://github.com/cylaris/whatthephish.git
+```
+- Move into that dir
+```
+cd whatthephish
+```
+- Then install the requirements:
+```
+pip install -r requirements.txt
+```
 
 ## Current Features
 
@@ -77,3 +90,4 @@ python3 wtp.py -msg path/to/email.eml -v
 
 # Show full content without truncation
 python3 wtp.py -msg path/to/email.msg --no-truncate
+```
