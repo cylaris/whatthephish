@@ -6,7 +6,7 @@ A significantly enhanced email phishing analysis tool with advanced character an
 
 ![Version](https://img.shields.io/badge/Version-2.0-brightgreen)
 ![Language](https://img.shields.io/badge/Language-Python-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
+![License](https://img.shields.io/badge/License-GPL3.0-green)
 
 ## Installation
 - Create a folder for this project, then run:
