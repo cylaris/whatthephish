@@ -34,7 +34,7 @@ HEADER = r"""
                 Lightweight CLI email analysis tool
 <-------------------------------------------------------------------->
 GitHub: https://github.com/cylaris/whatthephish
-Made with ❤️ by ntwrite
+Made with ❤️ by ntwrite & Kamran Saifullah
 ❗Usage: python3 wtp.py -msg <path_to_msg_file> [options]
 ❗Use -h for help with options
 """
