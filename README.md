@@ -122,7 +122,6 @@ python3 wtp.py --create-keywords
 - **Keyword System Overhaul**: Configurable categories with visual highlighting and context tracking
 ## Updates for v2.2 inbound
 - **Adding support for ExchangeOnline Quarantine management**
-- **Machine learning enhancement for pattern recognition**
 - **Advanced attachment analysis capabilities**
 
 This project was made with ❤️ by Cylaris
