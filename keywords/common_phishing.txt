@@ -1,0 +1,61 @@
+# Common Phishing Pattern Keywords
+invoice
+inv
+re: invoice
+missing inv
+new message
+new scanned fax doc
+new faxtransmission
+message from
+you have a new message
+telephone message
+verification required
+action required
+password expiry
+attention required
+support id
+google drive file shared
+sent your some files
+file
+sales project files
+request for quote
+w-9 form request
+service request
+request notification
+file document
+you have received a new document
+important document
+view attached documents
+shared a document
+efax from id
+efax message
+vm from
+received document
+shared files
+urgent action
+immediate attention
+meeting notes
+project update
+document review
+conference call details
+team announcement
+survey response needed
+training materials
+office memo
+schedule change
+new policy update
+feedback requested
+event invitation
+newsletter subscription
+system notification
+collaboration request
+information update
+report summary
+workflow changes
+resource allocation
+department update
+meeting minutes
+task assignment
+company directory
+employee handbook
+onboarding materials

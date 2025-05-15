@@ -1,0 +1,37 @@
+# This file defines how different keyword categories are weighted in the risk score
+keyword_categories:
+  common_phishing:
+    file: "common_phishing.txt"
+    weight: 15 
+    description: "Common phishing email patterns"
+    
+  financial:
+    file: "financial.txt"
+    weight: 10
+    description: "Financial spam indicators"
+    
+  urgency_pressure:
+    file: "urgency_pressure.txt"
+    weight: 12
+    description: "Urgency and pressure tactics"
+    
+  security_scams:
+    file: "security_scams.txt"
+    weight: 20 
+    description: "Security-related scam terms"
+    
+  too_good_to_be_true:
+    file: "too_good_to_be_true.txt"
+    weight: 8
+    description: "Unrealistic promises and offers"
+    
+  adult_gaming:
+    file: "adult_gaming.txt"
+    weight: 5 
+    description: "Adult content and gambling terms"
+
+# Configuration options
+settings:
+  case_sensitive: false
+  match_whole_words: true
+  max_matches_per_category: 5  # Don't over-penalize repeated keywords
