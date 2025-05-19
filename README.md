@@ -31,7 +31,7 @@ pip install -r requirements.txt
 ![image](https://github.com/user-attachments/assets/2305fbeb-feaf-4fb6-ac48-ce1c44a1e9fa)
 
 <sub> Character Analysis Preview</sub>
-![image](https://github.com/user-attachments/assets/b996c19b-d881-48e5-b7ba-3b17438e8792)
+/
 
 <sub> Visualised Abnormal Chars</sub>
 ### Enhanced Email Analysis
